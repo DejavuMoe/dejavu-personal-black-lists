@@ -2,9 +2,11 @@
 *://dolphinfive.com/*
 *://www.vdanxia.com/*
 *://*.pinpaidadao.com/*
+*://*.xinnet.com/*
 *://*.isharepc.com/*
 @*://www.tspweb.com/*
 *://*.huochangliang.com/*
+*://*.fons.com.cn/*
 *://www.py2n.com/*
 *://www.cwtea.net/*
 *://www.xbfhb.com/*
