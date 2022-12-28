@@ -4,6 +4,7 @@
 *://*.pinpaidadao.com/*
 *://*.xinnet.com/*
 *://*.isharepc.com/*
+*://*.gzmiqi.com/*
 @*://www.tspweb.com/*
 *://*.huochangliang.com/*
 *://*.fons.com.cn/*
