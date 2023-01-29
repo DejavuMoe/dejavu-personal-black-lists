@@ -1,5 +1,6 @@
 *://*.hybase.com/*
 *://dolphinfive.com/*
+*://*.oscs1024.com/*
 *://www.vdanxia.com/*
 *://*.pinpaidadao.com/*
 *://*.xinnet.com/*
